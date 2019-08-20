@@ -2,6 +2,8 @@
 
 This project is a simple Angular Application in which you create, edit, delete locally a todo note using reactive forms and bootstrap 4
 
+Link: https://affectionate-payne-1d9d55.netlify.com/
+
 ## Development Server
 
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
