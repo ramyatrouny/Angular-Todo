@@ -4,6 +4,8 @@ This project is a simple Angular Application in which you create, edit, delete l
 
 Link: https://affectionate-payne-1d9d55.netlify.com/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26a57a91-833a-42b3-a60f-3c869397d3ef/deploy-status)](https://app.netlify.com/sites/affectionate-payne-1d9d55/deploys)
+
 ## Development Server
 
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
